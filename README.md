@@ -1,3 +1,3 @@
 # SQL Intermediate Course
 
-Welcome to the SQL Intermediate Course repository!
+Practising and saving the query 
